@@ -1,0 +1,142 @@
+[
+  {
+    "isbn": "9788420666006",
+    "nombre": "La metamorfosis",
+    "autor": "Franz Kafka",
+    "edicion": "1",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9788499890944",
+    "nombre": "1984",
+    "autor": "George Orwell",
+    "edicion": "1",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9788499890951",
+    "nombre": "Rebelión en la granja",
+    "autor": "George Orwell",
+    "edicion": "2",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9788420662701",
+    "nombre": "El gato negro",
+    "autor": "Edgar Allan Poe",
+    "edicion": "1",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9788420662718",
+    "nombre": "El corazón delator",
+    "autor": "Edgar Allan Poe",
+    "edicion": "3",
+    "categoria": "Misterio"
+  },
+  {
+    "isbn": "9788420672847",
+    "nombre": "Asesinato en el Orient Express",
+    "autor": "Agatha Christie",
+    "edicion": "1",
+    "categoria": "Misterio"
+  },
+  {
+    "isbn": "9788420672854",
+    "nombre": "Muerte en el Nilo",
+    "autor": "Agatha Christie",
+    "edicion": "1",
+    "categoria": "Misterio"
+  },
+  {
+    "isbn": "9788439702405",
+    "nombre": "Crónicas de una muerte anunciada",
+    "autor": "Gabriel García Márquez",
+    "edicion": "1",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9788439702412",
+    "nombre": "El coronel no tiene quien le escriba",
+    "autor": "Gabriel García Márquez",
+    "edicion": "1",
+    "categoria": "Humor"
+  },
+  {
+    "isbn": "9788401352836",
+    "nombre": "La flamenca",
+    "autor": "Autor Desconocido",
+    "edicion": "1",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9788422608929",
+    "nombre": "Doña Bárbara",
+    "autor": "Rómulo Gallegos",
+    "edicion": "1",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9788432206900",
+    "nombre": "El túnel",
+    "autor": "Ernesto Sabato",
+    "edicion": "1",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9788439702429",
+    "nombre": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "edicion": "1",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9780132350884",
+    "nombre": "Clean Code",
+    "autor": "Robert C. Martin",
+    "edicion": "1",
+    "categoria": "Programación"
+  },
+  {
+    "isbn": "9788420662725",
+    "nombre": "La máscara de la muerte roja",
+    "autor": "Edgar Allan Poe",
+    "edicion": "1",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9788417820091",
+    "nombre": "Codex Gigas",
+    "autor": "Anónimo",
+    "edicion": "1",
+    "categoria": "Historia"
+  },
+  {
+    "isbn": "9788417820107",
+    "nombre": "Los perros de Tíndalos",
+    "autor": "Frank Belknap Long",
+    "edicion": "1",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9788433914675",
+    "nombre": "Lolita",
+    "autor": "Vladimir Nabokov",
+    "edicion": "1",
+    "categoria": "Literatura"
+  },
+  {
+    "isbn": "9788420662732",
+    "nombre": "Fuente Ovejuna",
+    "autor": "Lope de Vega",
+    "edicion": "1",
+    "categoria": "Teatro"
+  },
+  {
+    "isbn": "9788417820114",
+    "nombre": "El hombre más malo del mundo",
+    "autor": "Otrova Gomas",
+    "edicion": "1",
+    "categoria": "Humor"
+  }
+]

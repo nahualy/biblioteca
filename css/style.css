@@ -1,0 +1,128 @@
+:root {
+    --color-primario: #2c3e50;
+    --color-secundario: #34495e;
+    --color-acento: #3498db;
+    --color-fondo: #f8f9fa;
+    --color-texto: #2c3e50;
+    --color-borde: #dee2e6;
+    --sombra-suave: 0 2px 15px rgba(0, 0, 0, 0.08);
+    --transicion: all 0.3s ease;
+}
+
+body {
+    background-color: var(--color-fondo);
+    color: var(--color-texto);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: var(--color-primario);
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 2.2rem;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: var(--sombra-suave);
+    transition: var(--transicion);
+}
+
+.card-header {
+    background: linear-gradient(135deg, var(--color-primario), var(--color-secundario));
+    color: white;
+    border-radius: 12px 12px 0 0 !important;
+    padding: 1.2rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.form-control,
+.form-select {
+    border: 1px solid var(--color-borde);
+    border-radius: 8px;
+    padding: 0.7rem 1rem;
+    transition: var(--transicion);
+}
+
+.form-control:focus,
+.form-select:focus {
+    border-color: var(--color-acento);
+    box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.15);
+}
+
+.btn {
+    border-radius: 8px;
+    padding: 0.7rem 1.8rem;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: var(--transicion);
+    text-transform: uppercase;
+    font-size: 0.85rem;
+}
+
+.btn-primary {
+    background-color: var(--color-acento);
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
+}
+
+.btn-secondary {
+    background-color: var(--color-secundario);
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: var(--color-primario);
+    transform: translateY(-2px);
+}
+
+.table {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: var(--sombra-suave);
+}
+
+.table thead {
+    background-color: var(--color-primario) !important;
+}
+
+.table th {
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    border: none;
+}
+
+.table td {
+    vertical-align: middle;
+    border-color: var(--color-borde);
+}
+
+.table-striped tbody tr:hover {
+    background-color: rgba(52, 152, 219, 0.05);
+}
+
+.table-responsive {
+    border-radius: 12px;
+}
+
+/* Placeholder styling */
+::placeholder {
+    color: #95a5a6;
+    opacity: 1;
+}
+
+/* Animación suave para la tabla */
+#tablaLibros tr {
+    transition: var(--transicion);
+}
