@@ -61,7 +61,7 @@ El sistema incluye validaciones para:
 
 ## ‍💻 Autor
 
-Gafa
+Karla Arocha.
 
 ## 📅 Fecha
 
